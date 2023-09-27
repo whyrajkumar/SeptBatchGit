@@ -1,1 +1,9 @@
-print("hello git clone")
+git init
+git clone <path>
+dir
+cd <repo>
+git status
+git add<file>
+git status
+git commit -m "first commit"
+git push
